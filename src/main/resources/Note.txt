@@ -1,0 +1,5 @@
+В браузере зашел в "Maven repository" -> Lombok -> Project Lombok » 1.18.32
+(скопировал Lombok и вставил в pom.xml в раздел зависимостей и обновил ctrl+shift+O)
+
+создал
+
